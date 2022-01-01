@@ -1,6 +1,8 @@
 # listing-directory
 A C program that displays the complete contents of the directory.  
 
+Created for CS525 - Systems Programming under Stevens Institude of Technology. 
+
 INSTRUCTIONS:
 
 Write a C program that will take a command-line argument to specify the starting point of a directory listing.  
